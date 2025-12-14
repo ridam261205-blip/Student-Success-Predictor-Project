@@ -72,8 +72,10 @@ The **Confusion Matrix** helps visualize:
 
 ## 📸🖼️ **OUTPUT PREVIEW** 🖼️📸
 
-✔️ Student **Pass / Fail Prediction**  
-✔️ **Confusion Matrix Visualization**  
+<img width="309" height="140" alt="image" src="https://github.com/user-attachments/assets/4b15d9d7-d63b-47d6-b4fd-5ece9f28ba08" />
+  
+<img width="868" height="705" alt="image" src="https://github.com/user-attachments/assets/c0c3ceff-e730-4d07-8a5a-052ebabec86a" />
+  
 
 ---
 
