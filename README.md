@@ -95,8 +95,7 @@ Student-Success-Predictor/
 
 ## **1️⃣ Clone the Repository**
 ```bash
-[git clone https://github.com/your-username/Student-Success-Predictor.git
-cd Student-Success-Predictor](https://github.com/ridam261205-blip/Student-Success-Predictor-Project.git)
+https://github.com/ridam261205-blip/Student-Success-Predictor-Project.git
 
 
 ## **2️⃣ Create a Virtual Environment**
