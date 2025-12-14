@@ -115,3 +115,11 @@ pip install -r requirements.txt
 ## **1️⃣ Run the Project**
 ```bash
 jupyter notebook
+
+
+
+- ## 🙋‍♀️ Connect With Me
+
+ - Name - Ridam Sharma  
+📎 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/ridam-sharma-688784357/)  
+📧 Email: ridam.261205@gmail.com
