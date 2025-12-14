@@ -95,24 +95,24 @@ Student-Success-Predictor/
 
 ## **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/Student-Success-Predictor.git
-cd Student-Success-Predictor
+[git clone https://github.com/your-username/Student-Success-Predictor.git
+cd Student-Success-Predictor](https://github.com/ridam261205-blip/Student-Success-Predictor-Project.git)
 
 
-## **1️⃣ Create a Virtual Environment**
+## **2️⃣ Create a Virtual Environment**
 ```bash
 python -m venv venv
 
-## **1️⃣ Activate the Virtual Environment**
+## **3️⃣ Activate the Virtual Environment**
 ```bash
 venv\Scripts\activate --> for windows
 source venv/bin/activate --> for Mac/Linux
 
-## **1️⃣ Install Required Libraries**
+## **4️⃣ Install Required Libraries**
 ```bash
 pip install -r requirements.txt
 
-## **1️⃣ Run the Project**
+## **5️⃣ Run the Project**
 ```bash
 jupyter notebook
 
