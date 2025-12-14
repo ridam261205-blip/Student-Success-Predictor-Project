@@ -86,3 +86,30 @@ Student-Success-Predictor/
 ├── student_success_predictor.ipynb
 ├── README.md
 └── requirements.txt
+
+
+
+# 🚀 **HOW TO RUN THIS PROJECT**
+
+## **1️⃣ Clone the Repository**
+```bash
+git clone https://github.com/your-username/Student-Success-Predictor.git
+cd Student-Success-Predictor
+
+
+## **1️⃣ Create a Virtual Environment**
+```bash
+python -m venv venv
+
+## **1️⃣ Activate the Virtual Environment**
+```bash
+venv\Scripts\activate --> for windows
+source venv/bin/activate --> for Mac/Linux
+
+## **1️⃣ Install Required Libraries**
+```bash
+pip install -r requirements.txt
+
+## **1️⃣ Run the Project**
+```bash
+jupyter notebook
